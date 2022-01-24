@@ -5,3 +5,4 @@
 - You can reach me via
   - [LinkedIn](https://www.linkedin.com/in/udaykiranpachalla/)
   - [Github](https://www.github.com/udaykiranp)
+  - [Twitter](https://www.twitter.com/pachalla)
